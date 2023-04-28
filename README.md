@@ -1,2 +1,2 @@
 # cryptoGame
-link to game: https://lllnft.art/
+link to game: https://rhass1.github.io/cryptoGame/
